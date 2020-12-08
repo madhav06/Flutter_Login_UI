@@ -7,4 +7,4 @@ This repository is a part of the 100-day design in Flutter.
 
 Here we use,Flutter Features like: Animation, Stack, Positioned, BoxShadow, TextField, Gradient, LinearGradient ..so on 
 
-<img src="assets/screenshot/two.png"/>
+<img src="assets/screenshot/two.png" height="500em" />
